@@ -181,7 +181,7 @@ include("includes/header.php");
 <div id="content" class="container">
     <!-- container Begin -->
 
-    <div class="row">
+    <div class="row justify-content-center">
         <!-- row Begin -->
 
         <?php

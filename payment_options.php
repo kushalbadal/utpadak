@@ -18,7 +18,7 @@
     
      <p class="lead text-center"><!-- lead text-center Begin -->
          
-         <a href="order.php?c_id=<?php echo $customer_id ?>"> Offline Payment </a>
+         <a href="customer/my_account.php?pay_offline"> Offline Payment </a>
          
      </p><!-- lead text-center Finish -->
      
@@ -28,9 +28,8 @@
             
             <a href="#">
                 
-                Paypall Payment
+                e-Sewa
                 
-                <img class="img-responsive" src="images/paypall_img.png" alt="img-paypall">
                 
             </a>
             
